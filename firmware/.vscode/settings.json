@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "cmsis_os.h": "c",
+        "freertos.h": "c",
+        "reent.h": "c",
+        "stdint.h": "c",
+        "stm32f4xx_hal.h": "c",
+        "stm32f4xx_ll_sdmmc.h": "c",
+        "stm32f4xx_hal_def.h": "c",
+        "stddef.h": "c"
+    }
+}
