@@ -8,5 +8,6 @@
         "stm32f4xx_ll_sdmmc.h": "c",
         "stm32f4xx_hal_def.h": "c",
         "stddef.h": "c"
-    }
+    },
+    "stm32-for-vscode.openOCDPath": "/home/charliew/.config/Code/User/globalStorage/bmd.stm32-for-vscode/@xpack-dev-tools/openocd/0.11.0-5.1/.content/bin/openocd"
 }
