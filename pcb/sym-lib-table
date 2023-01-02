@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "ATL")(type "KiCad")(uri "${KIPRJMOD}/lib/ATL-KiCad-Library/ATL.kicad_sym")(options "")(descr "ATL Library"))
+)
