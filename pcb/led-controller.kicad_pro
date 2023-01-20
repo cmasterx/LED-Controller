@@ -361,7 +361,9 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "ATL"
+    ]
   },
   "meta": {
     "filename": "led-controller.kicad_pro",
