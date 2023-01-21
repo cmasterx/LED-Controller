@@ -1,3 +1,5 @@
 (sym_lib_table
   (lib (name "ATL")(type "KiCad")(uri "${KIPRJMOD}/lib/ATL-KiCad-Library/ATL.kicad_sym")(options "")(descr "ATL Library"))
+  (lib (name "led-controller")(type "KiCad")(uri "${KIPRJMOD}/led-controller.kicad_sym")(options "")(descr ""))
+  (lib (name "AONR21321")(type "KiCad")(uri "${KIPRJMOD}/lib/ATL-KiCad-Library/AONR21321.kicad_sym")(options "")(descr "")(disabled))
 )
